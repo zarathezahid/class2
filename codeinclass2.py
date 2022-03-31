@@ -13,3 +13,6 @@ print(x*2)
 print('no more math')
 print('hello world class 2')
 print('test1inclass')
+
+print('test2inclass')
+
